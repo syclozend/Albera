@@ -3,7 +3,9 @@ body {
   margin: 0;
   padding: 0;
 }
-
+.name {
+  margin: auto;
+}
 .chat-container {
   width: 400px;
   margin: 50px auto;
